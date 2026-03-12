@@ -23,7 +23,7 @@ const Index = () => {
           variant="ghost" 
           size="sm" 
           className="hidden md:flex bg-white/10 backdrop-blur-md border border-white/20 rounded-xl text-white/90 hover:bg-white/20 hover:text-white transition-all duration-300 shadow-lg fixed top-6 right-6 z-50 text-sm px-3 h-9"
-          onClick={() => window.open("https://github.com/Lynchy21/grademate", "_blank")}
+          onClick={() => window.open("https://github.com/abhishekscodes/grademate", "_blank")}
         >
           <Github className="w-4 h-4 mr-2" />
           View on GitHub
@@ -62,14 +62,14 @@ const Index = () => {
               <Button 
                 variant="ghost" 
                 className="text-white/90 hover:text-white text-lg"
-                onClick={() => { window.open("https://lynchy21.github.io/gpa-calculator/", "_blank"); setMenuOpen(false); }}
+                onClick={() => { window.open("https://abhishekscodes.github.io/gpa-calculator/", "_blank"); setMenuOpen(false); }}
               >
                 GradeMate v1
               </Button>
               <Button 
                 variant="ghost" 
                 className="text-white/90 hover:text-white text-lg"
-                onClick={() => { window.open("https://github.com/Lynchy21/grademate", "_blank"); setMenuOpen(false); }}
+                onClick={() => { window.open("https://github.com/abhishekscodes/grademate", "_blank"); setMenuOpen(false); }}
               >
                 <Github className="w-5 h-5 mr-2" />
                 Source
@@ -79,7 +79,7 @@ const Index = () => {
                   variant="ghost" 
                   size="icon" 
                   className="text-white/90 hover:text-white w-12 h-12 rounded-full hover:bg-white/10"
-                  onClick={() => window.open("https://github.com/Lynchy21", "_blank")}
+                  onClick={() => window.open("https://github.com/abhishekscodes", "_blank")}
                 >
                   <Github className="w-5 h-5" />
                 </Button>
@@ -223,7 +223,7 @@ const Index = () => {
                   variant="ghost" 
                   size="sm" 
                   className="text-white/90 hover:text-white transition-all duration-300 w-fit justify-start"
-                  onClick={() => window.open("https://github.com/Lynchy21/grademate", "_blank")}
+                  onClick={() => window.open("https://github.com/abhishekscodes/grademate", "_blank")}
                 >
                   Source
                 </Button>
@@ -242,7 +242,7 @@ const Index = () => {
                   variant="ghost" 
                   size="icon" 
                   className="text-white/90 hover:text-white transition-all duration-300 w-12 h-12 rounded-full hover:bg-white/10 hover:shadow-[0_0_20px_rgba(255,255,255,0.3)]"
-                  onClick={() => window.open("https://github.com/Lynchy21", "_blank")}
+                  onClick={() => window.open("https://github.com/abhishekscodes", "_blank")}
                 >
                   <Github className="w-5 h-5" />
                 </Button>
