@@ -211,7 +211,7 @@ const Index = () => {
                   variant="ghost" 
                   size="sm" 
                   className="text-white/90 hover:text-white transition-all duration-300 w-fit justify-start"
-                  onClick={() => window.open("https://lynchy21.github.io/gpa-calculator/", "_blank")}
+                  onClick={() => window.open("https://abhishekscodes.github.io/gpa-calculator/", "_blank")}
                 >
                   GradeMate v1
                 </Button>
